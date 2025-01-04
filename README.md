@@ -1,1 +1,1 @@
-# Sorting-Algorithm-Visualization-Project
+# Algorithm-Visualization-Project
